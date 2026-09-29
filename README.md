@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Berke+Mert+Öztürk...;I'm+Web+Developer+and+Web+Designer!)](https://git.io/typing-svg)
 
-<h3 align="center">Web Developer and Web Designer</h3>
+<h3 align="center">Web Geliştirici & Web Tasarımcı & Grafik Tasarımcı</h3>
 
 ``` javascript
 const Ozturk = {
@@ -21,10 +21,6 @@ const Ozturk = {
 }
 ```
 
-- 💬 Bana sor **Her türlü soruyu sorabilirsiniz..**
-
-- 📫 Mail **berkemertozturk1997@gmail.com**
-
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
 ### 🌐 Sosyal Medya Hesaplarım:
@@ -34,9 +30,13 @@ const Ozturk = {
 
 ### 🔭 Benim Hakkımda
 
-- İstanbul Üniversitesi "Yönetim Bilişim Sistemleri (MIS)" lisans mezunuyum. Eğitim sürecimi Gazi Üniversitesi’nde "Pedagojik Formasyon" eğitimimi tamamlayarak taçlandırdım ve "Bilgisayar ve Öğretim Teknolojileri (BÖTE)" öğretmeni unvanını kazandım. Mesleki odağımı; web geliştirme, UI/UX tasarımı ve grafik tasarım alanlarında yoğunlaştırarak hem teknik hem de görsel yönü güçlü, modern teknolojilerle harmanlanmış projeler üretmeye odaklanıyorum. Yazılım ve tasarımı bir araya getiren disiplinler arası yaklaşımları benimsiyor; proje yönetimi, içerik üretimi, sosyal medya yönetimi, SEO ve WordPress altyapılı sistemler üzerinde aktif olarak çalışıyorum. 
+- Yönetim Bilişim Sistemleri (YBS) lisans eğitimimin kazandırdığı analitik düşünme yapısı ile Görsel İletişim Tasarımı vizyonumu harmanlayan; Grafik Tasarım, Web Tasarım ve UI/UX Tasarım süreçlerinde uçtan uca çözümler üreten çok yönlü bir tasarımcı ve geliştiriciyim. Kullanıcı odaklı dijital deneyimler (UI/UX) oluşturma, Figma ve Adobe Creative Cloud (Photoshop, Illustrator, InDesign) araçlarıyla özgün kurumsal kimlik, vektörel grafik ve arayüz tasarımları geliştirme konusunda geniş tecrübeye sahibim. HTML5, CSS3, JavaScript gibi modern önyüz teknolojilerindeki teknik birikimim sayesinde tasarladığım arayüzleri piksel hassasiyetinde ve responsive (esnek) olarak web ortamına aktarabiliyorum. Estetik algıyı fonksiyonellik ve kullanıcı ihtiyaçlarıyla buluşturan, özgün ve etkili projelere imza atan, disiplinli ve çözüm odaklı bir çalışma prensibini benimsiyorum. 
 
-- Öğrenmeye açık, çözüm odaklı ve takım çalışmasına yatkın bir yapıya sahibim. Teknoloji benim için sadece bir meslek değil, aynı zamanda büyük bir tutkudur. Bilgisayar donanımları ve sistem toplama konusundaki derin bilgimi, yeni nesil donanım teknolojilerini takip ederek güncel tutuyor; bu alanda çevreme danışmanlık veriyorum. Öte yandan, dijital oyun kültürüyle de yakından ilgileniyorum. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisini uzun yıllardır takip ediyor, oyun dünyasının dinamiklerini profesyonel bir ilgiyle izliyorum.
+- Mesleki odağımı; web geliştirme, UI/UX tasarımı ve grafik tasarım alanlarında yoğunlaştırarak hem teknik hem de görsel yönü güçlü, modern teknolojilerle harmanlanmış projeler üretmeye odaklanıyorum. Yazılım ve tasarımı bir araya getiren disiplinler arası yaklaşımları benimsiyor; proje yönetimi, içerik üretimi, sosyal medya yönetimi, SEO ve WordPress altyapılı sistemler üzerinde aktif olarak çalışıyorum. Öğrenmeye açık, çözüm odaklı ve takım çalışmasına yatkın bir yapıya sahibim.
+
+- Tasarım ve yazılım geliştirme yetkinliklerimin yanı sıra, bilgisayar donanımına ve hızla gelişen teknoloji dünyasına duyduğum derin merak beni bu alanda da teknik bir altyapı oluşturmaya yöneltti. Sahip olduğum "Bilgisayar Bakım ve Onarım" sertifikası doğrultusunda; cihaz bakımı, sistem sorunlarının giderilmesi ve genel teknolojik ürünler hakkında profesyonel düzeyde teknik destek ve bilgilendirme sunabiliyorum. Ayrıca, kullanıcıların ihtiyaçlarına en uygun performansı elde edebilmeleri için sıfırdan bilgisayar toplama süreçlerinde rehberlik ediyor, yeni bir teknolojik cihaz satın alırken doğru tercihleri yapabilmeleri adına kapsamlı bir donanım danışmanlığı sağlıyorum.
+
+- Öte yandan, dijital oyun kültürüyle de yakından ilgileniyorum. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisini uzun yıllardır takip ediyor, oyun dünyasının dinamiklerini profesyonel bir ilgiyle izliyorum. 
 
 ### :computer:Eğitim / Kariyer
 - :computer:Gazi Üniversitesi "Yönetim Bilişim Sistemleri" yüksek lisans bölümünü başarı ile tamamladım.
