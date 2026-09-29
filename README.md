@@ -23,8 +23,7 @@ const Ozturk = {
 
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
-### 🌐 Sosyal Medya Hesaplarım:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/StarLordBerke) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/starlordberke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starlordberke2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/starlordberke) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@starlordberke) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/StarLordBerke) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/StarLordBerke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StarLordBerke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sibermega) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkemertozturk1997@gmail.com) 
+
 
 ### Web Geliştirici | Web Tasarımcı | UI/UX Tasarımcısı | Grafik Tasarımcı | SEO Uzmanı | İçerik Editörü | Sosyal Medya Uzmanı | WordPress Geliştiricisi | Eğitmen | Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)
 
@@ -116,34 +115,30 @@ const Ozturk = {
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
- <h2 align="center">Sosyal Medya Hesaplarım </h2>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starlordberke/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/starlordberke/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://starlordberke.medium.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@sibermega/)
+ ## 🌐 Sosyal Medya Hesaplarım:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/StarLordBerke) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/starlordberke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starlordberke2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/starlordberke) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@starlordberke) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/StarLordBerke) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/StarLordBerke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StarLordBerke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sibermega) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkemertozturk1997@gmail.com) 
 
 
-<h2 align="center">Dil & Framework</h2>
+## Dil & Framework
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,css,dart,dotnet,flutter,html,java,js,php,py)
 
 
-<h2 align="center">Database (Veri Tabanı)</h2>
+## Database (Veri Tabanı)
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
 <img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
 
-<h2 align="center">Kullandığım IDE Çeşitleri</h2>
+## Kullandığım IDE Çeşitleri
 
 ![My Skills](https://skillicons.dev/icons?i=eclipse,idea,androidstudio,visualstudio,vscode)
 
-<h2 align="center">Graphic Design (Grafik Tasarım)</h2>
+## Graphic Design (Grafik Tasarım)
 
 ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)
 <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height=50>
 
-<h2 align="center">Elektronik Araçlar</h2>
+## Elektronik Araçlar
 
 ![My Skills](https://skillicons.dev/icons?i=arduino)
 
