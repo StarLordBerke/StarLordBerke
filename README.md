@@ -35,8 +35,6 @@ const Ozturk = {
 
 ### Web Geliştirici | Web Tasarımcı | UI/UX Tasarımcısı | Grafik Tasarımcı | SEO Uzmanı | İçerik Editörü | Sosyal Medya Uzmanı | WordPress Geliştiricisi | Eğitmen | Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)
 
-### 🔭 Benim Hakkımda
-
 - Yönetim Bilişim Sistemleri (YBS) lisans eğitimimin kazandırdığı analitik düşünme yapısı ile Görsel İletişim Tasarımı vizyonumu harmanlayan; Grafik Tasarım, Web Tasarım ve UI/UX Tasarım süreçlerinde uçtan uca çözümler üreten çok yönlü bir tasarımcı ve geliştiriciyim. Kullanıcı odaklı dijital deneyimler (UI/UX) oluşturma, Figma ve Adobe Creative Cloud (Photoshop, Illustrator, InDesign) araçlarıyla özgün kurumsal kimlik, vektörel grafik ve arayüz tasarımları geliştirme konusunda geniş tecrübeye sahibim. HTML5, CSS3, JavaScript gibi modern önyüz teknolojilerindeki teknik birikimim sayesinde tasarladığım arayüzleri piksel hassasiyetinde ve responsive (esnek) olarak web ortamına aktarabiliyorum. Estetik algıyı fonksiyonellik ve kullanıcı ihtiyaçlarıyla buluşturan, özgün ve etkili projelere imza atan, disiplinli ve çözüm odaklı bir çalışma prensibini benimsiyorum. 
 
 - Mesleki odağımı; web geliştirme, UI/UX tasarımı ve grafik tasarım alanlarında yoğunlaştırarak hem teknik hem de görsel yönü güçlü, modern teknolojilerle harmanlanmış projeler üretmeye odaklanıyorum. Yazılım ve tasarımı bir araya getiren disiplinler arası yaklaşımları benimsiyor; proje yönetimi, içerik üretimi, sosyal medya yönetimi, SEO ve WordPress altyapılı sistemler üzerinde aktif olarak çalışıyorum. Öğrenmeye açık, çözüm odaklı ve takım çalışmasına yatkın bir yapıya sahibim.
