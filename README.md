@@ -155,21 +155,19 @@ const Ozturk = {
  
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/> 
   
-  ### 📕 Son Blog Yazıları
+  ### 📕 Son Blog Yazılarım
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Office'in Windows 11 Sürümü Nasıl Olacak?](https://teknomega4.blogspot.com/2021/07/microsoft-officein-windows-11-surumunde.html)
-- [HTML Dersleri Bölüm 2: HTML Giriş](https://sibermega4.blogspot.com/2021/08/html-dersleri-bolum-2-html-giris_23.html)
-- [HTML Dersleri Bölüm 1: HTML Tarihçesi](https://sibermega4.blogspot.com/2021/08/html-dersleri-bolum-1-html-tarihcesi_94.html)
-- [Samsung Galaxy A21S İncelemesi!](https://teknomega4.blogspot.com/2021/08/samsung-galaxy-a21s-incelemesi.html)
-- [FPS Oyunları için En İyi Nvidia Performans Ayarları Nasıl Yapılır?](https://teknomega4.blogspot.com/2021/07/fps-oyunlar-icin-en-iyi-nvidia.html)
-- [Web Sitesi Hızlandırma Yöntemleri | Web Sitenizi Hızlandırın!](https://teknomega4.blogspot.com/2022/02/web-sitesi-hzlandrma-yontemleri-web.html)
-- [Web Sitesine Kod Kutusu Ekleme](https://teknomega4.blogspot.com/2022/02/web-sitesine-kod-kutusu-ekleme.html)
-- [2021 Senesinde PlayStation 3 Oyun Konsolu satın alınır mı?](https://teknomega4.blogspot.com/2021/11/2021-senesinde-playstation-3-oyun.html)
-- [2021 senesinde Xbox One konsolu satın alınır mı?](https://teknomega4.blogspot.com/2021/10/2021-senesinde-xbox-one-konsolu-satn.html)  
+- [Dijital Beynin İçine Yolculuk: CPU Gerçekten Ne Yapar?](https://medium.com/@starlordberke/dijital-beynin-i%CC%87%C3%A7ine-yolculuk-cpu-ger%C3%A7ekten-ne-yapar-c0e3e45e9d88)
+- [Bilgisayarın Geçici Hafızası: RAM Nedir?](https://medium.com/@starlordberke/bilgisayar%C4%B1n-ge%C3%A7ici-haf%C4%B1zas%C4%B1-ram-nedir-4dc7c416cb03)
+- [Bilgisayarın Omurgası: Anakartın Yapısı ve İşlevi](https://medium.com/@starlordberke/bilgisayar%C4%B1n-omurgas%C4%B1-anakart%C4%B1n-yap%C4%B1s%C4%B1-ve-i%CC%87%C5%9Flevi-1a57ded7a4f9)
+- [Vercel App ile Web Uygulamalarınızı Hızla Yayınlayın!](https://starlordberke.medium.com/vercel-app-ile-web-uygulamalar%C4%B1n%C4%B1z%C4%B1-h%C4%B1zla-yay%C4%B1nlay%C4%B1n-a6bdf46348a8)
+- [VS Code ile Hızla Temel HTML Yapısı Oluşturma](https://starlordberke.medium.com/vs-code-ile-h%C4%B1zla-temel-html-yap%C4%B1s%C4%B1-olu%C5%9Fturma-884361b9481f)
+- [Baştan Sona HTML5 Eğitimi](https://starlordberke.medium.com/ba%C5%9Ftan-sona-html5-e%C4%9Fitimi-9867db0ae396)
+- [Flutter’ı Birlikte Kuralım ve Kullanalım!](https://starlordberke.medium.com/flutter%C4%B1-birlikte-kural%C4%B1m-ve-kullanal%C4%B1m-e96d76bb8956)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [daha fazla blog yazısı...](https://teknomega4.blogspot.com/)
+➡️ [daha fazla blog yazısı...](https://medium.com/@starlordberke)
   
   </p>
 
@@ -191,7 +189,7 @@ const Ozturk = {
    
 </p>
   
-  ### ❤️ En Yeni Bilgi İçerikli İnstagram Gönderileri 
+  ### ❤️ En Yeni Instagram Gönderilerim 
 
 <!-- İNSTAGRAM:START -->
 - [Programlamada Nasıl Gelişirim?](https://www.instagram.com/sibermega4/p/DPyk8JgDMQl/)
