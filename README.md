@@ -115,15 +115,17 @@ const Ozturk = {
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
- ## 🌐 Sosyal Medya Hesaplarım:
+ ## 🌐 Sosyal Medya Hesaplarım
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/StarLordBerke) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/starlordberke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starlordberke2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/starlordberke) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@starlordberke) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/StarLordBerke) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/StarLordBerke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StarLordBerke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sibermega) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkemertozturk1997@gmail.com) 
 
 
 ## Dil 
 
-![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,css,dart,dotnet,flutter,html,java,js,php,py)
+![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,dart,dotnet,html,css,js,ts,r,py)
 
 ## Framework
+
+![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,flutter)
 
 ## Database (Veri Tabanı)
 
@@ -132,14 +134,28 @@ const Ozturk = {
 
 ## Kullandığım IDE Çeşitleri
 
-![My Skills](https://skillicons.dev/icons?i=eclipse,idea,androidstudio,visualstudio,vscode)
+![My Skills](https://skillicons.dev/icons?i=replit,atom,sublime,androidstudio,visualstudio,vscode)
+
+## Faydalı Araçlar
+
+![My Skills](https://skillicons.dev/icons?i=notion,git,github,powershell)
+
+## İçerik Yönetim Sistemleri
+
+![My Skills](https://skillicons.dev/icons?i=wordpress,webflow)
 
 ## Grafik Tasarım
 
 ![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,au,ae,pr)
 <img src="https://logos-world.net/wp-content/uploads/2021/11/Canva-New-Logo.png" height=50>
 
-## 3D Tasarım
+## 3D Tasarım & Modelleme
+
+![My Skills](https://skillicons.dev/icons?i=autocad,blender)
+
+## Oyun Motorları
+
+![My Skills](https://skillicons.dev/icons?i=godot,unity)
 
 ## Elektronik Araçlar
 
