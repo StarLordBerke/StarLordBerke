@@ -37,6 +37,12 @@ const Ozturk = {
 
 <p align="justify">Öte yandan, dijital oyun kültürüyle de yakından ilgileniyorum. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisini uzun yıllardır takip ediyor, oyun dünyasının dinamiklerini profesyonel bir ilgiyle izliyorum.</p>
 
+<p align="right">
+<a href="https://github.com/StarLordBerke"> 
+<img height="150em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+ </div>
+</p>
+
 ### 🔧 Uzmanlık Alanlarım:
 - Web Geliştirme (HTML, CSS, JS)
 - Web ve Grafik Tasarımı (Figma, Adobe CC)
