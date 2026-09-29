@@ -34,7 +34,7 @@ const Ozturk = {
 
 ### 🔭 Benim Hakkımda
 
-- Yönetim Bilişim Sistemleri (YBS) lisans eğitimimin kazandırdığı analitik düşünme yapısı ile Görsel İletişim Tasarımı vizyonumu harmanlayan; Grafik Tasarım, Web Tasarım ve UI/UX Tasarım süreçlerinde uçtan uca çözümler üreten çok yönlü bir tasarımcı ve geliştiriciyim. Kullanıcı odaklı dijital deneyimler (UI/UX) oluşturma, Figma ve Adobe Creative Cloud (Photoshop, Illustrator, InDesign) araçlarıyla özgün kurumsal kimlik, vektörel grafik ve arayüz tasarımları geliştirme konusunda geniş tecrübeye sahibim. HTML5, CSS3, JavaScript gibi modern önyüz teknolojilerindeki teknik birikimim sayesinde tasarladığım arayüzleri piksel hassasiyetinde ve responsive (esnek) olarak web ortamına aktarabiliyorum. Estetik algıyı fonksiyonellik ve kullanıcı ihtiyaçlarıyla buluşturan, özgün ve etkili projelere imza atan, disiplinli ve çözüm odaklı bir çalışma prensibini benimsiyorum. 
+- <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/> Yönetim Bilişim Sistemleri (YBS) lisans eğitimimin kazandırdığı analitik düşünme yapısı ile Görsel İletişim Tasarımı vizyonumu harmanlayan; Grafik Tasarım, Web Tasarım ve UI/UX Tasarım süreçlerinde uçtan uca çözümler üreten çok yönlü bir tasarımcı ve geliştiriciyim. Kullanıcı odaklı dijital deneyimler (UI/UX) oluşturma, Figma ve Adobe Creative Cloud (Photoshop, Illustrator, InDesign) araçlarıyla özgün kurumsal kimlik, vektörel grafik ve arayüz tasarımları geliştirme konusunda geniş tecrübeye sahibim. HTML5, CSS3, JavaScript gibi modern önyüz teknolojilerindeki teknik birikimim sayesinde tasarladığım arayüzleri piksel hassasiyetinde ve responsive (esnek) olarak web ortamına aktarabiliyorum. Estetik algıyı fonksiyonellik ve kullanıcı ihtiyaçlarıyla buluşturan, özgün ve etkili projelere imza atan, disiplinli ve çözüm odaklı bir çalışma prensibini benimsiyorum. 
 
 - Mesleki odağımı; web geliştirme, UI/UX tasarımı ve grafik tasarım alanlarında yoğunlaştırarak hem teknik hem de görsel yönü güçlü, modern teknolojilerle harmanlanmış projeler üretmeye odaklanıyorum. Yazılım ve tasarımı bir araya getiren disiplinler arası yaklaşımları benimsiyor; proje yönetimi, içerik üretimi, sosyal medya yönetimi, SEO ve WordPress altyapılı sistemler üzerinde aktif olarak çalışıyorum. Öğrenmeye açık, çözüm odaklı ve takım çalışmasına yatkın bir yapıya sahibim.
 
@@ -43,28 +43,28 @@ const Ozturk = {
 - Öte yandan, dijital oyun kültürüyle de yakından ilgileniyorum. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisini uzun yıllardır takip ediyor, oyun dünyasının dinamiklerini profesyonel bir ilgiyle izliyorum. 
 
 ### 🎧 Hobilerim!
-- • Müziğe tutkuyla bağlıyım; gün içinde ruh halime göre farklı türlerde müzikler dinlemek bana ilham veriyor.
-- • Özellikle fantastik ve bilim kurgu türündeki kitapları okumaktan büyük keyif alıyorum.
-- • Güne zinde başlamak için sabah yürüyüşleri yaparım, doğayla iç içe olmak beni motive eder.
-- • Yüzme, fiziksel ve zihinsel olarak rahatlamamı sağlayan vazgeçilmez aktivitelerimdendir.
-- • Marvel ve DC evrenlerini yakından takip eder, çizgi roman okumayı bir tutku olarak görürüm.
-- • Karakter tasarımı üzerine çizim yapmayı, hayal gücümü kağıda dökmeyi çok seviyorum.
-- • Boş zamanlarımda kaliteli film ve diziler izlerim. Favori filmim "The Lord of the Rings", favori dizilerim ise "Mr. Robot" ve "Supernatural".
-- • Dijital sanat, 3D modelleme ve karakter animasyonu konularında da ilgim var, bu alanlarda da kendimi geliştirmeyi planlıyorum.
+- Müziğe tutkuyla bağlıyım; gün içinde ruh halime göre farklı türlerde müzikler dinlemek bana ilham veriyor.
+- Özellikle fantastik ve bilim kurgu türündeki kitapları okumaktan büyük keyif alıyorum.
+- Güne zinde başlamak için sabah yürüyüşleri yaparım, doğayla iç içe olmak beni motive eder.
+- Yüzme, fiziksel ve zihinsel olarak rahatlamamı sağlayan vazgeçilmez aktivitelerimdendir.
+- Marvel ve DC evrenlerini yakından takip eder, çizgi roman okumayı bir tutku olarak görürüm.
+- Karakter tasarımı üzerine çizim yapmayı, hayal gücümü kağıda dökmeyi çok seviyorum.
+- Boş zamanlarımda kaliteli film ve diziler izlerim. Favori filmim "The Lord of the Rings", favori dizilerim ise "Mr. Robot" ve "Supernatural".
+- Dijital sanat, 3D modelleme ve karakter animasyonu konularında da ilgim var, bu alanlarda da kendimi geliştirmeyi planlıyorum.
 
 ### 📫 Bana Ulaşmak İsterseniz!
-- • Bana ulaşmak isterseniz **berkemertozturk1997@gmail.com** adresini kullanabilirsiniz. 
-- • Sosyal Medya üzerinden bana ulaşmak isterseniz **https://linktr.ee/StarLordBerke** adresini kullanabilirsiniz.
-- • Web üzerinden bana ulaşmak isterseniz **https://www.sibermega.com.tr/** web sitemide kullanabilirsiniz.
+-  Bana ulaşmak isterseniz **berkemertozturk1997@gmail.com** adresini kullanabilirsiniz. 
+-  Sosyal Medya üzerinden bana ulaşmak isterseniz **https://linktr.ee/StarLordBerke** adresini kullanabilirsiniz.
+-  Web üzerinden bana ulaşmak isterseniz **https://www.berkemertozturk.com.tr/** web sitemide kullanabilirsiniz.
 
 ### 🤝 Ayrıca Youtube Kanalımı Ziyaret Edebilirsiniz!
-- • Ayrıca yazılım, tasarım, teknoloji ve eğitim üzerine içerik ürettiğim bir youtube kanalım var. Kanalımın adı "Game Mega" **https://www.youtube.com/c/GameMega** takip etmeyi unutmayın.
+-  Ayrıca yazılım, tasarım, teknoloji ve eğitim üzerine içerik ürettiğim bir youtube kanalım var. Kanalımın adı "Siber Mega" **https://www.youtube.com/c/@sibermega** takip etmeyi unutmayın.
 
 ### 💪 Sevdiğim Sözler!
-- • Fedakarlık yoksa; zaferde yoktur.🏆
+-  Fedakarlık yoksa; zaferde yoktur.🏆
 
 ***:computer:	DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
-<br>
+
 ![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
 
 
