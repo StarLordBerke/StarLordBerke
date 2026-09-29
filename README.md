@@ -25,7 +25,7 @@ const Ozturk = {
 
 <h1 align="center"> 💻Berke Mert Öztürk</h1>
 <p align="center">
-<a href="https://github.com/StarLordBerke4"> 
+<a href="https://github.com/StarLordBerke"> 
 <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
  </div>
 </p>
@@ -42,65 +42,31 @@ const Ozturk = {
 
 - Öte yandan, dijital oyun kültürüyle de yakından ilgileniyorum. Özellikle Blizzard Entertainment tarafından geliştirilen Diablo serisini uzun yıllardır takip ediyor, oyun dünyasının dinamiklerini profesyonel bir ilgiyle izliyorum. 
 
-### :computer:Eğitim / Kariyer
-- :computer:Gazi Üniversitesi "Yönetim Bilişim Sistemleri" yüksek lisans bölümünü başarı ile tamamladım.
-- :computer:Gazi Üniversitesi "Pedagojik Formasyon" programını başarı ile tamamlayarak; "Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)" olma hakkını kazandım.
-- :computer:İstanbul Üniversitesi "Yönetim Bilişim Sistemleri" lisans bölümü son sınıf öğrencisiyim.
-- :computer:Atatürk Üniversitesi "Grafik Sanatları" lisans bölümü 1. sınıf öğrencisiyim.
-- :computer:Anadolu Üniversitesi "Görsel İletişim Tasarım" lisans bölümü 1. sınıf öğrencisiyim. 
-- :computer:Atatürk Üniversitesi "Bilgisayar Programcılığı" ön lisans bölümünü başarı ile tamamladım.
-- :computer:Anadolu Üniversitesi "Web Tasarımı ve Kodlama" ön lisans bölümünü başarı ile tamamladım.
-- :computer:Ankara Hacı Bayram Veli Üniversitesi "Turizm İşletmeciliği" lisans bölümünü başarı ile tamamladım.
-- :computer:Google Developer Student Clubs (DSC) - AHBV Üniversitesi Core Team ekibinde aktif görev alıyorum.
-- :computer:Full Stack Developer ve Grafik Tasarım Uzmanı olma hedefiyle disiplinli bir şekilde çalışıyorum.
-- :computer:Teknolojiyi yakından takip ederek, kendimi hem yazılım hem de tasarım alanında çok yönlü geliştirmeye özen gösteriyorum.
-- :computer:Yazılım ve tasarım odaklı Udemy ve YouTube kanalım için özgün eğitim içerikleri üretmekteyim.
-
-
-### 🔭 Kendimi Geliştirme Adına Yaptıklarım!
-- 🔭 Web projeleri üretmekten keyif alıyorum çünkü bilişim dünyasının sınırsız olanaklarına hayranım. 
-- 🔭 Yazılım alanında HTML, CSS, JavaScript, PHP, SQL, Python gibi dillerde uzmanlaşmak için aktif öğrenme sürecindeyim.
-- 🔭 Tasarım tarafında Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Figma ve Canva gibi araçlarda profesyonel düzeyde beceriler kazanıyorum.
-- 🔭 Aynı zamanda WordPress, Blogger, Wix, Weebly gibi platformlarla dinamik ve kullanıcı dostu web siteleri geliştiriyorum.
-- 🔭 Freelance deneyimi kazanmak adına Bionluk ve Fiverr platformlarında web tasarımı ve grafik tasarım üzerine projeler tamamlıyorum.
-- 🔭 Yazılım projelerimi GitHub üzerinde versiyon kontrolüyle paylaşıyor, sürekli güncel tutuyorum.
-- 🔭 YouTube kanalımda yazılım, tasarım ve dijital üretkenlik üzerine eğitim içerikleri paylaşmayım. Udemy için ise detaylı kurslar oluşturmaktayım.
-- 🔭 UI/UX prensiplerine uygun modern arayüzler geliştirerek hem kullanıcı deneyimini hem de estetik tasarımı ön planda tutuyorum.
-
 ### 🎧 Hobilerim!
-- 🎧 Müziğe tutkuyla bağlıyım; gün içinde ruh halime göre farklı türlerde müzikler dinlemek bana ilham veriyor.
-- 🎧 Özellikle fantastik ve bilim kurgu türündeki kitapları okumaktan büyük keyif alıyorum.
-- 🎧 Güne zinde başlamak için sabah yürüyüşleri yaparım, doğayla iç içe olmak beni motive eder.
-- 🎧 Yüzme, fiziksel ve zihinsel olarak rahatlamamı sağlayan vazgeçilmez aktivitelerimdendir.
-- 🎧 Marvel ve DC evrenlerini yakından takip eder, çizgi roman okumayı bir tutku olarak görürüm.
-- 🎧 Karakter tasarımı üzerine çizim yapmayı, hayal gücümü kağıda dökmeyi çok seviyorum.
-- 🎧 Boş zamanlarımda kaliteli film ve diziler izlerim. Favori filmim "The Lord of the Rings", favori dizilerim ise "Mr. Robot" ve "Supernatural".
-- 🎧 Dijital sanat, 3D modelleme ve karakter animasyonu konularında da ilgim var, bu alanlarda da kendimi geliştirmeyi planlıyorum.
+- • Müziğe tutkuyla bağlıyım; gün içinde ruh halime göre farklı türlerde müzikler dinlemek bana ilham veriyor.
+- • Özellikle fantastik ve bilim kurgu türündeki kitapları okumaktan büyük keyif alıyorum.
+- • Güne zinde başlamak için sabah yürüyüşleri yaparım, doğayla iç içe olmak beni motive eder.
+- • Yüzme, fiziksel ve zihinsel olarak rahatlamamı sağlayan vazgeçilmez aktivitelerimdendir.
+- • Marvel ve DC evrenlerini yakından takip eder, çizgi roman okumayı bir tutku olarak görürüm.
+- • Karakter tasarımı üzerine çizim yapmayı, hayal gücümü kağıda dökmeyi çok seviyorum.
+- • Boş zamanlarımda kaliteli film ve diziler izlerim. Favori filmim "The Lord of the Rings", favori dizilerim ise "Mr. Robot" ve "Supernatural".
+- • Dijital sanat, 3D modelleme ve karakter animasyonu konularında da ilgim var, bu alanlarda da kendimi geliştirmeyi planlıyorum.
 
 ### 📫 Bana Ulaşmak İsterseniz!
-- 📫 Bana ulaşmak isterseniz **berkemertozturk1997@gmail.com** adresini kullanabilirsiniz. 
-- 📫 Sosyal Medya üzerinden bana ulaşmak isterseniz **https://linktr.ee/StarLordBerke** adresini kullanabilirsiniz.
-- 📫 Web üzerinden bana ulaşmak isterseniz **https://www.sibermega.com.tr/** web sitemide kullanabilirsiniz.
+- • Bana ulaşmak isterseniz **berkemertozturk1997@gmail.com** adresini kullanabilirsiniz. 
+- • Sosyal Medya üzerinden bana ulaşmak isterseniz **https://linktr.ee/StarLordBerke** adresini kullanabilirsiniz.
+- • Web üzerinden bana ulaşmak isterseniz **https://www.sibermega.com.tr/** web sitemide kullanabilirsiniz.
 
 ### 🤝 Ayrıca Youtube Kanalımı Ziyaret Edebilirsiniz!
-- 🤝 Ayrıca yazılım, tasarım, teknoloji ve eğitim üzerine içerik ürettiğim bir youtube kanalım var. Kanalımın adı "Game Mega" **https://www.youtube.com/c/GameMega** takip etmeyi unutmayın.
+- • Ayrıca yazılım, tasarım, teknoloji ve eğitim üzerine içerik ürettiğim bir youtube kanalım var. Kanalımın adı "Game Mega" **https://www.youtube.com/c/GameMega** takip etmeyi unutmayın.
 
 ### 💪 Sevdiğim Sözler!
-- 💪 Fedakarlık yoksa; zaferde yoktur.🏆
+- • Fedakarlık yoksa; zaferde yoktur.🏆
 
 ***:computer:	DON'T REPEAT YOURSELF (KENDİNİ TEKRAR ETME)***
 <br>
 ![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif)
-***Bölümüm Bilgisayar Mühendisliği olmasada ideallerimden asla vazgeçmeden çabalamaya devam edeceğim.:medal_military:***
 
-
-
-<h1 align="center"> 💻Berke Mert Öztürk</h1>
-<p align="center">
-<a href="https://github.com/StarLordBerke4"> 
-<img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
- </div>
-</p>
 
 ![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
