@@ -1,3 +1,5 @@
+![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
+
 <h1 align="center">Merhaba 👋, Ben Berke Mert Öztürk </h1>
 <h1 align="center">
   <img src="https://github.com/StarLordBerke4/StarLordBerke4/blob/main/GIF/Earth.gif">
@@ -20,8 +22,6 @@ const Ozturk = {
   mbti: "INTP",
 }
 ```
-
-![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
 <h1 align="center"> 🌐Hakkımda🌐</h1>
 
