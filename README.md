@@ -431,36 +431,6 @@ const Ozturk = {
 <br>
 
 ### Fedakarlık Yoksa ❤️ Zaferde Yoktur!
-
-<h2 align="center">My Skills:</h3>
-
-<h4 align="left">Web Development</h4>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css3" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jquery/jquery-original.svg" alt="jquery" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" alt="nodejs" height="30" width="30"/>
-<img align="center" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" alt="react" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" alt="mongo" height="30" width="30"/>
-  
-<h4 align="left">Mobile Development</h4>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg" alt="dart" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg" alt="flutter" height="30" width="30"/>                                                                                                       
-<h4 align="left">Other Skills</h4>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="python" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/godot/godot-original.svg" alt="godot" height="30" width="30"/>
-  
-<h4 align="left">Tools</h4>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" alt="vscode" height="30" width="30"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/atom/atom-original.svg" alt="atom" height="30" width="30"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="pycharm" height="30" width="30"/>
-<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/postman-3628992-3030217.png" alt="postman" height="30" width="30"/>
   
 
 ## Sistem Özelliklerim
