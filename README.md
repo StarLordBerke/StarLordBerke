@@ -25,48 +25,12 @@ const Ozturk = {
 
 - 📫 Mail **berkemertozturk1997@gmail.com**
 
-<h3 align="center">Bana Ulaşmanın Diğer Yolları:</h3>
-
-<h4 align="left">Sosyal Medya</h4>
-<p align="left">
-<a href="https://www.linkedin.com/in/starlordberke/"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30"/></a>
-<a href="https://starlordberke.medium.com/"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433328.png" alt="medium" height="30" width="30"/></a>
-
-<h4 align="left">Teknoloji Toplulukları</h4>
-<p align="left">
-<a href=""><img align="center" src="https://juststickers.in/wp-content/uploads/2019/07/stackoverflow.png" alt="stackoverflow" height="30" width="30"/></a>
-<a href=""><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="hackerrank" height="30" width="30"/></a>
-<a href=""><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" alt="npm" height="30" width="30"/></a>
-
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
-### ❤️Beni Takip Edebilirsiniz:
-[![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1Qt9-fWZpUZDTCSEzKvciA)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/StarLordBerke)
-[![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/starlordberke/)
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/starlordberke/)
-[![View Site](https://img.shields.io/badge/View-white.svg?&style=for-the-badge&logo=safari&logoColor=blue)](https://teknomega4.blogspot.com)
-[![Follow on Medium](https://img.shields.io/badge/Follow-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@starlordberke)
-<a href="berkemertozturk1997@gmail.com" target="_blank" rel="nofollow"><img alt="Mert's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.artstation.com/starlordberke" target="_blank" rel="nofollow"><img alt="Mert's Artstation" src="https://camo.githubusercontent.com/98b30855da3ae8848a668b1cf87f892146be7c900e4036bd96fda770efc91e9a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d41727453746174696f6e26636f6c6f723d323232323232266c6f676f3d41727453746174696f6e266c6f676f436f6c6f723d313341464630266c6162656c3d" /></a>
-  <a href="https://steamcommunity.com/id/StarLordBerke/" target="_blank" rel="nofollow"><img alt="Mert's Steam" src="https://camo.githubusercontent.com/816a28a81b935f09bbe32600de30a1c29ea2bbc63b932eaeb7c00d2726e22971/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537465616d26636f6c6f723d303030303030266c6f676f3d537465616d266c6f676f436f6c6f723d464646464646266c6162656c3d"
-/></a>
-<a href="https://www.codewars.com/" ><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height=25></a>
-<a href="https://stackoverflow.com/users/17472907/berke-mert-%c3%96zt%c3%bcrk" ><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25></a>
-<a href="https://forum.freecodecamp.org/u/starlordberke/" ><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height=25></a>
-<a href="https://medium.com/@starlordberke" ><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" height=25></a> 
-<a href="https://github.com/StarLordBerke4" ><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25></a>
-<a href="https://linktr.ee/StarLordBerke" ><img src="https://img.shields.io/static/v1?label=&message=Linktree&style=flat-square&logo=linktree&labelColor=34cc8c&color=34cc8c&logoColor=ffffff" height=25></a>
-<a><img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></a> 
-<a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=25></a>
-<a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25></a> 
-<a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a>
-</p>
+### 🌐 Sosyal Medya Hesaplarım:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/StarLordBerke) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/starlordberke) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starlordberke2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/starlordberke) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@starlordberke) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/StarLordBerke) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/StarLordBerke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StarLordBerke) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sibermega) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkemertozturk1997@gmail.com) 
 
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
-### Web Geliştirici & Web Tasarımcı & Grafik Tasarımcı & UI/UX Tasarımcı & İçerik Üretici & Sosyal Medya Yönetimi & SEO & Wordpress & Blogger & YBS (MIS) & Eğitmen & Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)
+### Web Geliştirici | Web Tasarımcı | UI/UX Tasarımcısı | Grafik Tasarımcı | SEO Uzmanı | İçerik Editörü | Sosyal Medya Uzmanı | WordPress Geliştiricisi | Eğitmen | Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)
 
 ### 🔭 Benim Hakkımda
 
@@ -430,9 +394,7 @@ const Ozturk = {
 <img align="right" src="https://img.shields.io/github/followers/StarLordBerke4?label=Follow&style=social" />
 <br>
 
-### Fedakarlık Yoksa ❤️ Zaferde Yoktur!
   
-
 ## Sistem Özelliklerim
 
 <div>
