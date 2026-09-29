@@ -89,27 +89,15 @@ const Ozturk = {
 ***Bölümüm Bilgisayar Mühendisliği olmasada ideallerimden asla vazgeçmeden çabalamaya devam edeceğim.:medal_military:***
 
 
-<p align="center">
-  <img src= "https://gpvc.arturio.dev/StarLordBerke4" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/StarLordBerke4?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/StarLordBerke4?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
 
 <h1 align="center"> 💻Berke Mert Öztürk</h1>
 <p align="center">
 <a href="https://github.com/StarLordBerke4">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StarLordBerke4&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
- <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+<img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkcangumusisik&layout=compact&langs_count=16&theme=react"/>
  </div>
 </p>
-
-<p align="center">
-<a href="https://github.com/StarLordBerke4">
-<a href="https://github.com/StarLordBerke4?tab=repositories">
-<img src="https://badges.pufler.dev/repos/StarLordBerke4?style=flat-square&color=7d8cbe&logo=github"></a> <br>
-<a href="https://github.com/StarLordBerke4?tab=followers"><img src="https://img.shields.io/github/followers/e-k-eyupoglu?style=social"></a> <br>
-<a href="https://github.com/StarLordBerke4"><img align=center src="https://github-readme-stats.vercel.app/api?username=StarLordBerke4&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe" width=500></a> <br>
 
 ![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
@@ -121,7 +109,7 @@ const Ozturk = {
 
 ## Dil 
 
-![My Skills](https://skillicons.dev/icons?i=bootstrap,cs,dart,dotnet,html,css,js,ts,r,py)
+![My Skills](https://skillicons.dev/icons?i=cs,dart,dotnet,html,css,js,ts,r,py)
 
 ## Framework
 
