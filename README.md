@@ -114,11 +114,10 @@ const Ozturk = {
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=StarLordBerke4&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
  
- [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=StarLordBerke4&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarLordBerke)](https://github.com/StarlordBerke/github-readme-activity-graph)
 </div>
 
-![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
  <h2 align="center">Sosyal Medya Hesaplarım </h2>
 
@@ -154,6 +153,9 @@ const Ozturk = {
 <p>
  
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/> 
+
+![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
   
   ### 📕 Son Blog Yazılarım
 
