@@ -241,7 +241,7 @@ const Ozturk = {
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-## Sevdiklerim
+### Sevdiklerim
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-4-1174926.png" width="100"></td>
@@ -277,7 +277,7 @@ const Ozturk = {
    </tr>
   </table>
 
-# Takipçilerim
+### Takipçilerim
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -386,7 +386,8 @@ const Ozturk = {
 </table>
 <!--END_SECTION:top-followers-->
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=StarLordBerke&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
