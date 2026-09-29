@@ -23,7 +23,12 @@ const Ozturk = {
 
 ![footer](https://github.com/StarLordBerke4/StarLordBerke4/blob/main/footer.jpg)
 
-
+<h1 align="center"> 💻Berke Mert Öztürk</h1>
+<p align="center">
+<a href="https://github.com/StarLordBerke4"> 
+<img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+ </div>
+</p>
 
 ### Web Geliştirici | Web Tasarımcı | UI/UX Tasarımcısı | Grafik Tasarımcı | SEO Uzmanı | İçerik Editörü | Sosyal Medya Uzmanı | WordPress Geliştiricisi | Eğitmen | Bilgisayar ve Öğretim Teknolojileri Öğretmeni (BÖTE)
 
