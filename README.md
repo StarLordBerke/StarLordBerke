@@ -112,11 +112,8 @@ const Ozturk = {
 <a href="https://github.com/StarLordBerke4?tab=followers"><img src="https://img.shields.io/github/followers/e-k-eyupoglu?style=social"></a> <br>
 <a href="https://github.com/StarLordBerke4"><img align=center src="https://github-readme-stats.vercel.app/api?username=StarLordBerke4&show_icons=true&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe" width=500></a> <br>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=StarLordBerke4&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=StarLordBerke)](https://github.com/StarlordBerke/github-readme-activity-graph)
-</div>
-
+![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
  <h2 align="center">Sosyal Medya Hesaplarım </h2>
@@ -154,8 +151,6 @@ const Ozturk = {
  
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/> 
 
-![https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif](https://raw.githubusercontent.com/akinozgen/akinozgen/output/github-contribution-grid-snake.gif)
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
   
   ### 📕 Son Blog Yazılarım
 
