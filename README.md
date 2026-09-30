@@ -14,7 +14,7 @@
 ``` javascript
 const Ozturk = {
   fullName: "Berke Mert Öztürk",
-  age: 24,
+  age: 28,
   place: "Ankara, Yenimahalle, Turkey",
   pronouns: "he" || "him",
   interests: ["Web Development", "Web Designer", "Beginner Mobile Development"],
